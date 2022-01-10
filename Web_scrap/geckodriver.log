@@ -1,0 +1,169 @@
+1641651083739	geckodriver	INFO	Listening on 127.0.0.1:46557
+1641651083743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57065" "-no-remote" "-profile" "/tmp/rust_mozprofile9bbMrZ"
+1641651085219	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9bbMrZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57065/devtools/browser/70a599a0-1774-41a0-b916-edc0cbbcd9e0
+1641651088378	Marionette	INFO	Listening on port 35969
+1641651088527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641651092872	Marionette	INFO	Stopped listening on port 35969
+1641651974160	geckodriver	INFO	Listening on 127.0.0.1:48627
+1641651974667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37223" "-no-remote" "-profile" "/tmp/rust_mozprofileRz8t2C"
+1641651975828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRz8t2C/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37223/devtools/browser/dcdf198c-cb9b-4e09-9f8a-eb4496dd8ac1
+1641651977908	Marionette	INFO	Listening on port 45773
+1641651978006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641652022536	geckodriver	INFO	Listening on 127.0.0.1:36075
+1641652023056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60735" "-no-remote" "-profile" "/tmp/rust_mozprofilebEOXzA"
+1641652024394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebEOXzA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60735/devtools/browser/8a2872a6-3c5d-4a9b-be01-24e0a1b211cd
+1641652026864	Marionette	INFO	Listening on port 40939
+1641652027240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641652053157	Marionette	INFO	Stopped listening on port 40939
+1641652070421	geckodriver	INFO	Listening on 127.0.0.1:53121
+1641652070941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42789" "-no-remote" "-profile" "/tmp/rust_mozprofileFdKPBf"
+1641652072084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFdKPBf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42789/devtools/browser/8e2e9932-d4fa-4a06-831f-38058ff51b57
+1641652074941	Marionette	INFO	Listening on port 38561
+1641652074985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641652087281	geckodriver	INFO	Listening on 127.0.0.1:50031
+1641652087791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40783" "-no-remote" "-profile" "/tmp/rust_mozprofileLibReg"
+1641652088966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLibReg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40783/devtools/browser/0fd0cb69-e9be-42c9-a411-13979500f6b5
+1641652091362	Marionette	INFO	Listening on port 37743
+1641652091501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641652104135	Marionette	INFO	Stopped listening on port 37743
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1641652412538	geckodriver	INFO	Listening on 127.0.0.1:43951
+1641652413055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53453" "-no-remote" "-profile" "/tmp/rust_mozprofileK8fKnr"
+1641652414196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK8fKnr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53453/devtools/browser/6292c310-a35d-404b-bcb4-fae4dfd015ab
+1641652416556	Marionette	INFO	Listening on port 35247
+1641652416926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641652425793	Marionette	INFO	Stopped listening on port 35247
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641653856929	geckodriver	INFO	Listening on 127.0.0.1:33263
+1641653857437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37623" "-no-remote" "-profile" "/tmp/rust_mozprofileAw4h0e"
+1641653858577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAw4h0e/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37623/devtools/browser/d5e5342d-c82e-4fdf-8ac6-2bbf808b3028
+1641653860936	Marionette	INFO	Listening on port 33355
+1641653860979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641653870139	Marionette	INFO	Stopped listening on port 33355
+1641654042502	geckodriver	INFO	Listening on 127.0.0.1:42795
+1641654043020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34725" "-no-remote" "-profile" "/tmp/rust_mozprofilepXnzzj"
+1641654044176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepXnzzj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34725/devtools/browser/aacbc346-b292-4349-9a3f-ded2816b1bb6
+1641654046224	Marionette	INFO	Listening on port 42711
+1641654046272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641654059020	Marionette	INFO	Stopped listening on port 42711
+1641654188463	geckodriver	INFO	Listening on 127.0.0.1:58073
+1641654188971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36221" "-no-remote" "-profile" "/tmp/rust_mozprofilea37ja2"
+1641654190106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea37ja2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36221/devtools/browser/65d0f7c0-e22e-4a38-8cb0-366ca76651ef
+1641654192231	Marionette	INFO	Listening on port 43107
+1641654192319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641654221773	geckodriver	INFO	Listening on 127.0.0.1:56681
+1641654222277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39405" "-no-remote" "-profile" "/tmp/rust_mozprofileVnb6cI"
+1641654224417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVnb6cI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39405/devtools/browser/56aec9cf-176c-4c45-ac27-924ddd45c43e
+1641654227723	Marionette	INFO	Listening on port 43137
+1641654228322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641654261805	Marionette	INFO	Stopped listening on port 43137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641655063104	geckodriver	INFO	Listening on 127.0.0.1:54617
+1641655063609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53381" "-no-remote" "-profile" "/tmp/rust_mozprofileFsHzOY"
+1641655065157	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFsHzOY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53381/devtools/browser/665e1a41-bfba-413a-93bc-cadc9c5dcf71
+1641655067389	Marionette	INFO	Listening on port 45399
+1641655067443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s2.coinmarketcap.com/static/fingerPrint/finger-print-sdk-beta.js, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641655093915	Marionette	INFO	Stopped listening on port 45399
